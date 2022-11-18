@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d1cfe140.css",
+    "main.js": "./static/js/main.476e0ba5.js",
+    "static/js/787.88012170.chunk.js": "./static/js/787.88012170.chunk.js",
+    "static/media/skill.png": "./static/media/skill.c78bfac5522f22447649.png",
+    "static/media/loginpage.jpg": "./static/media/loginpage.6e0dd501d758a8cdb4c1.jpg",
+    "static/media/gress.JPG": "./static/media/gress.cb680e11fade47e06d8d.JPG",
+    "static/media/wedding.JPG": "./static/media/wedding.e3d5960f3a1bd234dd17.JPG",
+    "static/media/kkn.JPG": "./static/media/kkn.8f9a436baa241f21eede.JPG",
+    "static/media/logo-hitam.png": "./static/media/logo-hitam.f6966fe5c4f828f5a7ce.png",
+    "index.html": "./index.html",
+    "main.d1cfe140.css.map": "./static/css/main.d1cfe140.css.map",
+    "main.476e0ba5.js.map": "./static/js/main.476e0ba5.js.map",
+    "787.88012170.chunk.js.map": "./static/js/787.88012170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1cfe140.css",
+    "static/js/main.476e0ba5.js"
+  ]
+}
